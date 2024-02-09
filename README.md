@@ -54,5 +54,5 @@ To get started with the project, follow these steps:
 
 ## 🔒 License <a id ="license"></a>
 
-> **Note**: This software is licensed under MIT License, See [License](https://github.com/nouralmulhem/sematic_search_DB/blob/main/LICENSE).
+> **Note**: This software is licensed under MIT License..
 
